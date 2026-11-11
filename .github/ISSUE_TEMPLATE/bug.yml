@@ -1,0 +1,30 @@
+name: 问题反馈
+description: 启动器出错、游戏无法启动、功能不正常
+labels: [问题]
+body:
+  - type: input
+    id: version
+    attributes:
+      label: 启动器版本
+      description: 在“设置 → 关于”查看，例如 26.11.10.1
+    validations:
+      required: true
+  - type: input
+    id: system
+    attributes:
+      label: 系统
+      placeholder: Windows 11 24H2
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: 问题与复现步骤
+      description: 做了什么、期望看到什么、实际看到什么
+    validations:
+      required: true
+  - type: textarea
+    id: logs
+    attributes:
+      label: 日志或诊断包
+      description: 启动器日志在“设置 → 关于”；游戏崩溃时可导出诊断包后拖进这里。上传前请检查其中是否有不想公开的信息。

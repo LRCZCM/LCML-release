@@ -1,0 +1,11 @@
+name: 功能建议
+description: 希望增加或改进的功能
+labels: [建议]
+body:
+  - type: textarea
+    id: idea
+    attributes:
+      label: 建议内容
+      description: 想要什么功能，用在什么场景
+    validations:
+      required: true
