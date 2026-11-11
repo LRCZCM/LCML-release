@@ -21,3 +21,4 @@ LCML 是一款现代化的 Minecraft 启动器（Windows）。本仓库用于发
 - LCML 免费使用，不提供任何形式的担保。
 - 未经许可，不得出售、改动后分发或捆绑分发本软件，不得冒用 LCML 的名称发布。
 - LCML 与 Mojang Studios、Microsoft 没有关联。
+- 完整条款见启动器“设置 → 关于 → 用户协议与隐私”。
