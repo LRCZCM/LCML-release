@@ -20,8 +20,9 @@
 14. [快照与操作历史](backup-history.md)
 15. [日志与崩溃](logs-diagnosis.md)
 16. [工具页](tools.md)
-17. [设置](settings.md)
-18. [常见问题](faq.md)
+17. [联机](multiplayer.md)
+18. [设置](settings.md)
+19. [常见问题](faq.md)
 
 ## 几个常用的词
 

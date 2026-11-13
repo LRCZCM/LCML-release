@@ -47,6 +47,10 @@
 
 详见 [快照与操作历史](backup-history.md)。
 
+## 能和朋友联机吗？
+
+能。在“联机”页开房或加入房间，和用 HMCL、PCL 的朋友也能互通，详见 [联机](multiplayer.md)。
+
 ## 怎么反馈问题？
 
 在 [Issues](https://github.com/LRCZCM/LCML-release/issues/new/choose) 提交，最好附上启动器日志（“设置 → 关于 → 启动器日志”）。如果是游戏崩溃，附上诊断包或日志分享链接。
